@@ -57,10 +57,4 @@ public class MyWindow extends JFrame {
         thread.start();
     }
 
-    
-
-    
-
-    
-
 }
